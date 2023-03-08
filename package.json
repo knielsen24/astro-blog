@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "astro": "^2.0.18"
+  },
+  "devDependencies": {
+    "scss": "^0.2.4"
   }
 }
